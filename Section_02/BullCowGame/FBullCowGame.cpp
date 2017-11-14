@@ -112,17 +112,6 @@ bool FBullCowGame::IsIsogram(FString Word) const
 }
 
 
-int32 FBullCowGame::GetTotalIncorrect() const
-{
-	return 0;
-}
-
-int32 FBullCowGame::GetTotalCorrect() const
-{
-	return 0;
-}
-
-
 
 EGuessStatus FBullCowGame::CheckGuessValidity(FString Guess) const
 {
