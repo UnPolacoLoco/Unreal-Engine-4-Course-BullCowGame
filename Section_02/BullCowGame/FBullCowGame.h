@@ -35,8 +35,6 @@ public:
 	
 	FBullCowGame();
 
-	
-
 	int32 GetMaxTries() const;
 	int32 GetCurrentTry() const;
 	int32 GetHiddenWordLenght() const;
